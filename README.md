@@ -2,10 +2,13 @@
 
 A look into what I have collaborated for Hasty, a web based startup company which makes military movements as meaningful as possible. <br>
 Hasty is an MVP and due to the proprietary nature of the code I can only provide code snippets. <br>
+
 ---
+
 I developed an admins analytic dashboard that provides a visual representation of data collected from Google Analytics API. Users can view the data in the form of graphs, charts, and tables, making it easier to understand and analyze the website's performance.
 
 I also created an email service that allows administrators to send personalized emails to their customers using the Sendinblue third-party API. The service allows users to create email templates, customize them with personalization tags, and send them to their customers. <br>
+
 ---
 ## Built with
 
