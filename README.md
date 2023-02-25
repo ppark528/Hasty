@@ -19,7 +19,9 @@ I also created an email service that allows administrators to send personalized 
 ## Usage
 
 After creating a project/account in the Google Cloud Console you can obtain API credentials which retrieves data, then the .NET framework handles and passes it to React for front-end display. <br>
+
 React provides a variety of displays, which was used with apex charts, to display charts, tables, and graphs. The admin can interact with the charts to survey their data as needed. <br>
-Email services created for the adminstrator to send emails ranging from confirmation emails to resetting passwords 
+
+Email services created for the adminstrator to send emails ranging from confirmation emails to resetting passwords <br>
 
 ![ga-dashboard](https://user-images.githubusercontent.com/112028762/220734802-c2549e8f-f0ef-4b93-951b-78aa9780010e.jpg)
