@@ -24,4 +24,8 @@ React provides a variety of displays, which was used with apex charts, to displa
 
 Email services created for the adminstrator to send emails ranging from confirmation emails to resetting passwords <br>
 
-![ga-dashboard](https://user-images.githubusercontent.com/112028762/220734802-c2549e8f-f0ef-4b93-951b-78aa9780010e.jpg)
+![ga-dashboard](https://user-images.githubusercontent.com/112028762/221646185-44113cf7-71ac-4eb7-a965-027a7f1427bb.jpg)
+
+![ga-dashboard2](https://user-images.githubusercontent.com/112028762/221646199-618f1ac1-2a5e-497e-b4c6-1408cdaac398.jpg)
+
+
